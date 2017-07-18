@@ -38,6 +38,8 @@
             android:theme="@style/AppTheme.NoActionBar">
         </activity>
 
+       
+        /*libera a splash para ser a main e o launcher*/
         <activity
             android:name=".SplashScreenActivity"
             android:label="AppLocation"
